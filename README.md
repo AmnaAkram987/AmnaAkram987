@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Amna Akram ,a full-stack developer.
-- 👀 I’m interested in web developmemnt
-- 🌱 I’m currently learning new web technologies like React and Nextjs. 
 - 📫 I'm an AI enthusiast eager to explore the world of AI.
 
 
