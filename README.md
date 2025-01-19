@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amna Akram ,a full-stack developer.
+- 👋 Hi, I’m Amna Akram ,a frontend  developer.
 - 📫 I'm an AI enthusiast eager to explore the world of AI.
 
 
